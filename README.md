@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,16 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0162-find-peak-element) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
