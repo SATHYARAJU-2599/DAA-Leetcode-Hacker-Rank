@@ -43,4 +43,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0179-largest-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
