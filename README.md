@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0179-largest-number) |
 ## Greedy
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
