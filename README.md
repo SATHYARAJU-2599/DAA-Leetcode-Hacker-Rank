@@ -15,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0069-sqrtx) |
 | [0593-valid-square](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0593-valid-square) |
 ## Geometry
 |  |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0162-find-peak-element) |
 ## Tree
 |  |
