@@ -45,6 +45,7 @@
 | [0162-find-peak-element](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -98,4 +99,9 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0322-coin-change](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
