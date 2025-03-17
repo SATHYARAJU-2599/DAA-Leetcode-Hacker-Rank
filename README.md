@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0051-n-queens) |
+| [0128-longest-consecutive-sequence](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0179-largest-number) |
 ## Greedy
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SATHYARAJU-2599/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
